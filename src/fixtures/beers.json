@@ -1,7 +1,74 @@
 [
   {
     "id": "beer-0",
-    "beerName": "Beer 0",
-    "beerDescription": "Beer 0 Description, might be a little longer, might be a little longer, might be a little longer, might be a little longer, might be a little longer, might be a little longer. Just like that"
+    "beerName": "India Session Lager - Prototype Challenge",
+    "beerDescription": "BrewDog’s level of dry-hop to a beer formed with a baseline of 100% pilsner malt – and at under 4.5% ABV – gives you a style that flirts at the edges of several others. Think aromas of fresh cut grass, nettle, white grape, melon, tangerine - with similar flavours leading to a dry, bitter finish.",
+    "beerImageSrc": "https://images.punkapi.com/v2/keg.png"
+  },
+  {
+    "id": "beer-1",
+    "beerName": "Hopped-Up Brown Ale - Prototype Challenge",
+    "beerDescription": "Brown ales are perfect foils for resinous C-Hops, as the piney elements of the latter contrast brilliantly with the sweeter, nutty elements of the malt bill. The best of both worlds.",
+    "beerImageSrc": "https://images.punkapi.com/v2/82.png"
+  },
+  {
+    "id": "beer-2",
+    "beerName": "Single Hop India Pale Ale",
+    "beerDescription": "A potently bitter hop variety originally grown in the US around 40 years ago, Comet has been newly resurrected - this German version has bold resinous grapefruit flavours, which add a huge fresh hop aroma to this IPA.",
+    "beerImageSrc": "https://images.punkapi.com/v2/83.png"
+  },
+  {
+    "id": "beer-3",
+    "beerName": "Baby Saison - B-Sides",
+    "beerDescription": "A hark back to the origins of Saison; slight spice and earthy notes with highlights of lemon and pepper make a beer that could quench the thirst of any seasonal worker.",
+    "beerImageSrc": "https://images.punkapi.com/v2/keg.png"
+  },
+  {
+    "id": "beer-4",
+    "beerName": "Santa Paws",
+    "beerDescription": "A 4.5% decadent scotch ale brewed with Scottish heather honey. A robust malty beer packed with flavour, at a strength you can drink all (Christmas) day long. Santa Paws is our antidote to the chaos of the festive season. All the flavours of Christmas pudding in liquid form.",
+    "beerImageSrc": "https://images.punkapi.com/v2/85.png"
+  },
+  {
+    "id": "beer-5",
+    "beerName": "Original Dogma (Née Speedball",
+    "beerDescription": "A strong ale, brewed with guarana, Californian poppy, kola nut and Scottish heather honey. A conspiracy of trans-continental ingredients infused with some devastatingly BrewDog imaginative thinking.",
+    "beerImageSrc": "https://images.punkapi.com/v2/86.png"
+  },
+  {
+    "id": "beer-6",
+    "beerName": "India Session Lager - Prototype Challenge",
+    "beerDescription": "BrewDog’s level of dry-hop to a beer formed with a baseline of 100% pilsner malt – and at under 4.5% ABV – gives you a style that flirts at the edges of several others. Think aromas of fresh cut grass, nettle, white grape, melon, tangerine - with similar flavours leading to a dry, bitter finish.",
+    "beerImageSrc": "https://images.punkapi.com/v2/keg.png"
+  },
+  {
+    "id": "beer-7",
+    "beerName": "Hopped-Up Brown Ale - Prototype Challenge",
+    "beerDescription": "Brown ales are perfect foils for resinous C-Hops, as the piney elements of the latter contrast brilliantly with the sweeter, nutty elements of the malt bill. The best of both worlds.",
+    "beerImageSrc": "https://images.punkapi.com/v2/82.png"
+  },
+  {
+    "id": "beer-8",
+    "beerName": "Single Hop India Pale Ale",
+    "beerDescription": "A potently bitter hop variety originally grown in the US around 40 years ago, Comet has been newly resurrected - this German version has bold resinous grapefruit flavours, which add a huge fresh hop aroma to this IPA.",
+    "beerImageSrc": "https://images.punkapi.com/v2/83.png"
+  },
+  {
+    "id": "beer-9",
+    "beerName": "Baby Saison - B-Sides",
+    "beerDescription": "A hark back to the origins of Saison; slight spice and earthy notes with highlights of lemon and pepper make a beer that could quench the thirst of any seasonal worker.",
+    "beerImageSrc": "https://images.punkapi.com/v2/keg.png"
+  },
+  {
+    "id": "beer-10",
+    "beerName": "Santa Paws",
+    "beerDescription": "A 4.5% decadent scotch ale brewed with Scottish heather honey. A robust malty beer packed with flavour, at a strength you can drink all (Christmas) day long. Santa Paws is our antidote to the chaos of the festive season. All the flavours of Christmas pudding in liquid form.",
+    "beerImageSrc": "https://images.punkapi.com/v2/85.png"
+  },
+  {
+    "id": "beer-11",
+    "beerName": "Original Dogma (Née Speedball",
+    "beerDescription": "A strong ale, brewed with guarana, Californian poppy, kola nut and Scottish heather honey. A conspiracy of trans-continental ingredients infused with some devastatingly BrewDog imaginative thinking.",
+    "beerImageSrc": "https://images.punkapi.com/v2/86.png"
   }
 ]

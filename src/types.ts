@@ -1,4 +1,6 @@
 export interface Beer {
-  id: string,
-  name: string
+  id: string
+  beerName: string
+  beerDescription: string
+  beerImageSrc: string
 }
